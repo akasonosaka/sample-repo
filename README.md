@@ -1,4 +1,4 @@
 # sample-repo
 
 更新  
-feature
+no-fast-forward
