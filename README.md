@@ -1,3 +1,1 @@
-# sample-repo
-
-更新するよ
+diff 確認用
